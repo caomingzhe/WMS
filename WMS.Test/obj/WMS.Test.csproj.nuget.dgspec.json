@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\WMS.Test.csproj": {}
+    "C:\\work\\xy\\WMS\\WMS.Test\\WMS.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\WMS.Test.csproj": {
+    "C:\\work\\xy\\WMS\\WMS.Test\\WMS.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\WMS.Test.csproj",
+        "projectUniqueName": "C:\\work\\xy\\WMS\\WMS.Test\\WMS.Test.csproj",
         "projectName": "WMS.Test",
-        "projectPath": "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\WMS.Test.csproj",
+        "projectPath": "C:\\work\\xy\\WMS\\WMS.Test\\WMS.Test.csproj",
         "packagesPath": "C:\\Users\\41424\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\obj\\",
+        "outputPath": "C:\\work\\xy\\WMS\\WMS.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\41424\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,8 +30,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\41424\\Downloads\\WMS\\WMS\\WMS.csproj": {
-                "projectPath": "C:\\Users\\41424\\Downloads\\WMS\\WMS\\WMS.csproj"
+              "C:\\work\\xy\\WMS\\WMS\\WMS.csproj": {
+                "projectPath": "C:\\work\\xy\\WMS\\WMS\\WMS.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\41424\\Downloads\\WMS\\WMS\\WMS.csproj": {
+    "C:\\work\\xy\\WMS\\WMS\\WMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\41424\\Downloads\\WMS\\WMS\\WMS.csproj",
+        "projectUniqueName": "C:\\work\\xy\\WMS\\WMS\\WMS.csproj",
         "projectName": "WMS",
-        "projectPath": "C:\\Users\\41424\\Downloads\\WMS\\WMS\\WMS.csproj",
+        "projectPath": "C:\\work\\xy\\WMS\\WMS\\WMS.csproj",
         "packagesPath": "C:\\Users\\41424\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\41424\\Downloads\\WMS\\WMS\\obj\\",
+        "outputPath": "C:\\work\\xy\\WMS\\WMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\41424\\AppData\\Roaming\\NuGet\\NuGet.Config",

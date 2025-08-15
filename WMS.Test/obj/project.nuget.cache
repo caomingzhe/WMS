@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IQNoBwCE9lc=",
+  "dgSpecHash": "PzlsL02kr58=",
   "success": true,
-  "projectFilePath": "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\WMS.Test.csproj",
+  "projectFilePath": "C:\\work\\xy\\WMS\\WMS.Test\\WMS.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\41424\\.nuget\\packages\\aliyun.oss.sdk.netcore\\2.13.0\\aliyun.oss.sdk.netcore.2.13.0.nupkg.sha512",
     "C:\\Users\\41424\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
@@ -329,5 +329,12 @@
     "C:\\Users\\41424\\.nuget\\packages\\walkingtec.mvvm.mvc\\8.1.12\\walkingtec.mvvm.mvc.8.1.12.nupkg.sha512",
     "C:\\Users\\41424\\.nuget\\packages\\walkingtec.mvvm.taghelpers.layui\\8.1.12\\walkingtec.mvvm.taghelpers.layui.8.1.12.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "获取包漏洞数据时出错: 无法加载源 https://nexus.item.pub/repository/nuget-group/index.json 的服务索引。"
+    }
+  ]
 }

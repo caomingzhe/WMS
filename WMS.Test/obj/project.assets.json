@@ -16219,11 +16219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\WMS.Test.csproj",
+      "projectUniqueName": "C:\\work\\xy\\WMS\\WMS.Test\\WMS.Test.csproj",
       "projectName": "WMS.Test",
-      "projectPath": "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\WMS.Test.csproj",
+      "projectPath": "C:\\work\\xy\\WMS\\WMS.Test\\WMS.Test.csproj",
       "packagesPath": "C:\\Users\\41424\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\41424\\Downloads\\WMS\\WMS.Test\\obj\\",
+      "outputPath": "C:\\work\\xy\\WMS\\WMS.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\41424\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -16242,8 +16242,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\41424\\Downloads\\WMS\\WMS\\WMS.csproj": {
-              "projectPath": "C:\\Users\\41424\\Downloads\\WMS\\WMS\\WMS.csproj"
+            "C:\\work\\xy\\WMS\\WMS\\WMS.csproj": {
+              "projectPath": "C:\\work\\xy\\WMS\\WMS\\WMS.csproj"
             }
           }
         }
@@ -16302,5 +16302,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "获取包漏洞数据时出错: 无法加载源 https://nexus.item.pub/repository/nuget-group/index.json 的服务索引。"
+    }
+  ]
 }
